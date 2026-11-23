@@ -1,0 +1,15 @@
+
+Datu kopas nosaukums: Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+
+Datu kopas avots: Canadian Institute for Cybersecurity (CIC)
+
+Datu kopas saite:
+https://www.unb.ca/cic/datasets/ids-2017.html
+
+Izmantotie dati: Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+
+Lejupielādes datums: 23.11.2026
+
+Datu apstrāde veikta Python vidē, izmantojot pandas un NumPy.
+
+Mašīnmācīšanās modeļa izveidei un apmācībai izmantota scikit-learn bibliotēka.
